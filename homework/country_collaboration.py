@@ -1,10 +1,5 @@
 # country_collaboration.py
 
-# flake8: noqa: E501, N806
-
-# Complete
-
-# pylint: disable=C0103
 """Taller Presencial Evaluable"""
 
 import os
